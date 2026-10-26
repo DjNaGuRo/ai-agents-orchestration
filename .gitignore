@@ -1,2 +1,5 @@
 # Untrack virtual envs
 .venv
+
+# Documents produce through AI interaction and breanstorming
+chat_docs
